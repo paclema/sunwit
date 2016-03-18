@@ -8,6 +8,8 @@
 // this line must be at the very beginning of the script
 ui.screenMode("immersive");
 
+device.screenAlwaysOn(true);
+
 // forces portrait mode 
 ui.screenMode("portrait");
 
